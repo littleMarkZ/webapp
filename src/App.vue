@@ -13,7 +13,7 @@
   export default {
     data(){
       return {
-        title : '重大事项决策管理平台',
+        title : '重大事项决策管理平台(测试)',
         goBack : false,
         showFooter : true
       }
